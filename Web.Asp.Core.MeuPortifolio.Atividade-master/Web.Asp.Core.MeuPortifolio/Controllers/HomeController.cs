@@ -28,7 +28,7 @@ namespace Web.Asp.Core.MeuPortifolio.Controllers
             return View();
         }
 
-        public IActionResult Neymar()
+        public IActionResult Outro()
         {
             return View();
         }
